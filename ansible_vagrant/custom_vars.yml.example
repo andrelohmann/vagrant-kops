@@ -1,0 +1,3 @@
+aws_region: __REGION__
+aws_access_key: __ACCESS_KEY__
+aws_secret_key: __SECRET_KEY__
